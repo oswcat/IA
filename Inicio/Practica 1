@@ -1,0 +1,10 @@
+print("Hola, como estan, soy Oswaldo Martinez Alvarez")
+
+#Operaciones matemáticas básicas
+a = 22
+b = 21
+c = 23
+suma = a + b  + c
+print(f"la suma de {a}, {b}, {c} es: {suma}")
+resta = a - b  - c
+print(f"la suma de {a}, {b}, {c} es: {resta}")
