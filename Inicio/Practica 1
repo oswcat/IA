@@ -7,4 +7,8 @@ c = 23
 suma = a + b  + c
 print(f"la suma de {a}, {b}, {c} es: {suma}")
 resta = a - b  - c
-print(f"la suma de {a}, {b}, {c} es: {resta}")
+print(f"la resta de {a}, {b}, {c} es: {resta}")
+mult = a * b * c
+print(f"la multiplicacion de {a}, {b}, {c} es: {mult}")
+div = a / (b / c)
+print(f"la division de {a}, {b}, {c} es: {div}")
