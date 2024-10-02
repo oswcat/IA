@@ -13,4 +13,3 @@ print(f"la multiplicacion de {a}, {b}, {c} es: {mult}")
 div = a / (b / c)
 print(f"la division de {a}, {b}, {c} es: {div}")
 
-#prueba de subida de archivos
